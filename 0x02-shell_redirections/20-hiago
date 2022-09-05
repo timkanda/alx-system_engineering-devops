@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'removing letters' | tr -d 'c' 'C'
+tr -d c | tr -d C
