@@ -1,2 +1,2 @@
 #!/bin/bash
-cat unsorted_list_files.text | sort | uniq | pr | 1pr  
+sort | uniq -u
