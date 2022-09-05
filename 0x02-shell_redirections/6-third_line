@@ -1,2 +1,2 @@
 #!/bin/bash
-find -n 3 'the die is cast'
+head -n 3 "The die is cast"
